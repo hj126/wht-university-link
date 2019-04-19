@@ -1,7 +1,7 @@
 var univ_list = {
     school: "中原工学院",
     id : "18008",
-    link : [{
+    link : [ {
          name: "中工主页",
          url : "https://www.zut.edu.cn/"
     }, {
